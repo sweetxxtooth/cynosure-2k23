@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Kenia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+*{
+    padding:0;
+    margin: 0%;
+}
+
+body{
+    background-image: url("Pink\ and\ Peach\ Watercolour\ Textured\ Background\ Motivational\ Quote\ Desktop\ Wallpaper.png");
+    font-family: 'Josefin Slab', serif;
+}
+
+nav{
+    height: 90px;
+    padding: 10px;
+}
+
+#icon-container{
+    background: pink;
+    height: fit-content;
+    width: fit-content;
+    margin-left: 47%;
+    margin-bottom: 2px;
+    border-radius: 50%;
+    padding: 2px;
+}
+
+#icon{
+    height: 70px;
+    width: 70px;
+    margin: 5px;
+}
+
+hr{
+    border-color: rosybrown;
+    margin-top: 3px;
+    margin-bottom: 2px;
+}
+
+#head{
+    padding: 5%;
+}
+
+h1{
+    font-size: 65px;
+    color: #353839;
+    text-align: center;
+}
+
+#h-p{
+    padding: 30px;
+    border-radius: 25px;
+    font-size: 23px;
+    color: #353839;
+    font-family: 'Playfair Display', serif;
+    margin-top: 5px;
+}
+
+#divider{
+    background: #353839;
+    color: antiquewhite;
+    padding: 25px;
+    text-align: center;
+    font-size: 20px;
+}
+
+#divider img{
+    height: 170px;
+    width: auto;
+    margin: 2px;
+    border-radius: 40px;
+    margin-bottom: 25px;
+}
+
+#container{
+    background-color: pink;
+    padding: 10px;
+}
+
+.people{
+    background: #353839;
+    border-radius: 29px;
+    padding: 25px;
+    margin: 20px;
+    margin-left: 23px;
+    margin-right: 19px;
+    color: navajowhite;
+    font-size: 20px;
+}
+
+h2{
+    color: pink;
+    margin-bottom: 4px;
+    margin-top: 4px;
+    font-family: 'Tilt Prism', Times, serif;
+    font-size: 2em;
+}
+
+.people a{
+    color: ghostwhite;    
+    text-decoration: none;
+}
+
+.footer{
+    font-family: 'Kenia', sans-serif;
+    color: tan;
+    font-size: 23px;
+}
+
+footer{
+    height: 105px;
+    background-color: #353839;
+    padding: 20px;
+    padding-left: 35px;
+}
+
+#creds{
+    padding: 2px;
+    background-color: black;
+    text-align: right;
+}
+
+#creds a{
+    color: brown;
+    text-decoration: none;
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+}
